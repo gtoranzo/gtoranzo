@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Guillermo, I'm from Cuban and I'm an SRE.
+My name is Guillermo, I'm a Cuban developer.
 
 - ⚡ I am a developer, researcher and innovator specialist.
 
