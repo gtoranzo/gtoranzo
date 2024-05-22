@@ -25,7 +25,7 @@ My name is Guillermo and I'm a Cuban developer.
 
 - Skills in GIS development since 2018
 
-- Some Python coding.
+- Some Python and C/Cpp coding.
 
 - Special skills and experience in creating maps.
 
