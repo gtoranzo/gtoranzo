@@ -23,7 +23,7 @@ My name is Guillermo and I'm a Cuban developer.
 
 ## Skills
 
-- Skills in GIS development since 2018
+- Skills in GIS development since 2014
 
 - Some Python and C/Cpp coding.
 
