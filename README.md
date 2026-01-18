@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 My name is Guillermo and I'm a Cuban developer.
 
-- ⚡ I am a developer, researcher and innovator specialist.
+- ⚡ I am a specialist in research, development and innovation in SDI.
 
-- 🔭 Currently working for GEOMIX.
+- 🔭 Currently seeking employment opportunities. #freelance #opentowork
 
 ## Skills
 
-- Skills in GIS development since 2014
+- Skills in SDI development since 2014
 
 - Some Python and C/Cpp coding.
 
