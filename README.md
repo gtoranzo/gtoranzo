@@ -5,7 +5,7 @@ My name is Guillermo Toranzo Pérez. I'm a Cuban Computer Science Engineer and d
 - 🔭 Currently open to **freelance / remote / open-to-work** opportunities.
 - 🌱 Interested in SDI, GIS, backend and web development, Docker deployments, and 3D visualization.
 - 💬 Ask me about SDI, GIS, GeoServer, QGIS, Node.js/NestJS, PostgreSQL, Docker or AWS.
-
+<!--
 ## About me
 
 - Computer Science Engineer — Jesús Montané Oropesa University, Isle of Youth, Cuba (2006–2011).
@@ -31,7 +31,7 @@ Nueva Gerona, Cuba · 2025–present
 
 - **Engineer in Computer Science** — Jesús Montané Oropesa University, Isle of Youth, Cuba (2006–2011).
 - **Pre-University** — José Carlos Mariategui, Isle of Youth, Cuba (2002–2005).
-<!--
+
 ## Courses and training
 
 - Postgraduate course: **Linux Advanced in Network Administration** — University of Informatic Sciences, Havana, Cuba (2016).
@@ -67,5 +67,5 @@ Nueva Gerona, Cuba · 2025–present
 ## Contact
 
 - Email: [guilletp87@gmail.com](mailto:guilletp87@gmail.com)
-- GitHub: [github.com/gtoranz0](https://github.com/gtoranz0)
-- Website: [gtoranz0.github.io/gtoranz0-web](https://gtoranz0.github.io/gtoranz0-web)
+- GitHub: [github.com/gtoranzo](https://github.com/gtoranzo)
+- Website: [gtoranzo.github.io/gtoranzo-web](https://gtoranzo.github.io/gtoranzo-web)
